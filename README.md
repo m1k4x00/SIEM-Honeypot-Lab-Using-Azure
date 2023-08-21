@@ -1,4 +1,4 @@
-![image](https://github.com/m1k4x00/SIEM-Lab-Using-Azure-Sentiel/assets/142576207/2469e566-0016-41de-b057-70dfa4ba55be)# SIEM-Lab-Using-Azure-Sentiel
+# SIEM-Lab-Using-Azure-Sentiel
 ## 1. Introduction
 The goal of this project is to create a honeypot in the Azure cloud environment and observe live attacks from around the world. As the honeypot we will use a virtual machine and log any interesting data using a Log Analytics Workspace. Then finally we will use Azre Sentinel to visualize the oncoming attacks.
 
