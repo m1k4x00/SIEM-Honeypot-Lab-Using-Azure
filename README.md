@@ -43,7 +43,7 @@ Adding Sentinel to the workspace
 We will connect to the virtual machine via Windows RDP using the credentials set up in chapter 2.1 with the ip found in the Virtual Machines tab
 
 ## 8. Turning Off the Firewall
-We turn off domain, public and private firewalls
+We turn off domain, public and private firewalls since we want the adveseries to be able to attack our virtual machine.
 ![image](https://github.com/m1k4x00/SIEM-Lab-Using-Azure-Sentiel/assets/142576207/05a4091f-50ad-41f8-8bdb-e18531a18b1b)
 
 ## 9. Exporting logs
