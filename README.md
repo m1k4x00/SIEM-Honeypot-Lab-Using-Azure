@@ -21,7 +21,7 @@ We want to allow all inbound traffic on all ports so we create a new security gr
 ![image](https://github.com/m1k4x00/SIEM-Honeypot-Lab-Using-Azure/assets/142576207/2d5a94fe-4d93-41c1-919b-522104cb2464)
 
 
-## 4. Enabling Log Gathering in Microsoft Denfedner for Cloud
+## 4. Enabling Log Gathering in Microsoft Denfender for Cloud
 
 ## 4.1 Turning on Servers
 
@@ -40,7 +40,7 @@ Pressing connect will connect the VM to the workspace
 ![image](https://github.com/m1k4x00/SIEM-Honeypot-Lab-Using-Azure/assets/142576207/c084cc90-85a5-46d6-b7aa-5aa6d135411b)
 
 
-## 6. Setting up Azure Sentinal
+## 6. Setting up Azure Sentinel
 Adding Sentinel to the workspace
 
 ![image](https://github.com/m1k4x00/SIEM-Honeypot-Lab-Using-Azure/assets/142576207/634b6d57-d8b7-436a-b41b-ce9e3d268de7)
